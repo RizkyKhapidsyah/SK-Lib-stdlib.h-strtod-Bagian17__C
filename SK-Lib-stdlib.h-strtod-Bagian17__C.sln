@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SK-Lib-stdlib.h-strtod-Bagian17__C", "SK-Lib-stdlib.h-strtod-Bagian17__C\SK-Lib-stdlib.h-strtod-Bagian17__C.vcxproj", "{2F0376E3-E579-4081-9A6F-67EF00ABBB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F0376E3-E579-4081-9A6F-67EF00ABBB7E}.Debug|x64.ActiveCfg = Debug|x64
+		{2F0376E3-E579-4081-9A6F-67EF00ABBB7E}.Debug|x64.Build.0 = Debug|x64
+		{2F0376E3-E579-4081-9A6F-67EF00ABBB7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{2F0376E3-E579-4081-9A6F-67EF00ABBB7E}.Debug|x86.Build.0 = Debug|Win32
+		{2F0376E3-E579-4081-9A6F-67EF00ABBB7E}.Release|x64.ActiveCfg = Release|x64
+		{2F0376E3-E579-4081-9A6F-67EF00ABBB7E}.Release|x64.Build.0 = Release|x64
+		{2F0376E3-E579-4081-9A6F-67EF00ABBB7E}.Release|x86.ActiveCfg = Release|Win32
+		{2F0376E3-E579-4081-9A6F-67EF00ABBB7E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AD95806-0F65-41BD-A071-BE83CACF2F15}
+	EndGlobalSection
+EndGlobal
